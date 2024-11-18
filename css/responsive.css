@@ -1,0 +1,10 @@
+@media (max-width: 600px) {
+    .profile-section {
+        flex-direction: column;
+        text-align: center;
+    }
+    
+    .project-card {
+        padding: 1.5rem;
+    }
+}
